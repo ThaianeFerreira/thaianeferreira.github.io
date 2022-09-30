@@ -147,7 +147,7 @@ span {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
-  background: rgba(105, 105, 105, 1);
+  background: rgb(233, 65, 183);
   /*background-color: #4516d8;*/
 }
 
@@ -338,7 +338,7 @@ main {
   margin: 0 20px 20px;
   z-index: 5;
   border-radius: 10px;
-  background: rgba(105, 105, 105, 0.9);
+  background: rgba(233, 65, 183, 0.9);
   /*background-color: #4516d8*/
 }
 
